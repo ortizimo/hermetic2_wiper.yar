@@ -1,2 +1,2 @@
 # hermetic_2.yar
-A variation of hermetic_wiper.yar
+A variation of HERMETIC wiper used against Ukraine
