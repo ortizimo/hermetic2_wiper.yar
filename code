@@ -5,7 +5,7 @@ import "pe"
 rule find_hermetic2
 {					
 meta:
-	author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst, ATG"
+	author = "ortizimo, Sr. Cyber ForensicsAnalyst"
 	description = "Simple scan to search for HERMETIC wiper used against Ukraine"
 	reference = "https://github.com/ortizimo/hermetic2_wiper.yar"
 	update = "2022-03-03
